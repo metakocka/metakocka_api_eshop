@@ -1,4 +1,4 @@
-metakocka_api_ehsop
+metakocka_api_eshop
 ===================
 
 API for eShop
