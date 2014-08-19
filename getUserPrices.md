@@ -42,9 +42,6 @@ https://main.metakocka.si/rest/eshop/getUserPrices/123/S252zoQTz6DaOhsxWdJ/?user
 | price:currency | DA | Valuta | String / 3 | Valuta cene. Za enkrat podprta samo EUR valuta.
 | price:discountApplied | NE | Popust | Decimal | Popust, ki je že vštet v ceno.
 
-**Opombe**
-- spletna trgovina lahko vrne tudi druge parametre
-
 
 **Primer odgovora napake**
 ```xml
