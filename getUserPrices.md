@@ -19,7 +19,7 @@ https://main.metakocka.si/rest/eshop/getUserPrices/123/S252zoQTz6DaOhsxWdJ/?user
 
 **Primer odgovora**
 ```xml
-<xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <pricesInfo>
  <user userID="160000001"></user>
  <itemList>
