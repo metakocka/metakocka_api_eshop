@@ -32,7 +32,7 @@ https://main.metakocka.si/rest/eshop/getUserPrices/123/S252zoQTz6DaOhsxWdJ/?user
    ...
  </itemList>
 </pricesInfo>
-
+```
 
 
 | Atribut | Obvezen? | V MK | Tip / max dolžina | Opomba |
