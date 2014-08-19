@@ -26,6 +26,7 @@ URL : [eShop_url_base]/items/{item_id}
     "id":{item_id},
     ...
 }
+```
 
 | Atribut | Obvezen? | V MK | Tip / max dolžina | Opomba |
 | ------- | -------- | ---- | ----------------- | ------ |
