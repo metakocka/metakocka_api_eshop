@@ -4,7 +4,7 @@ Opis : Iz Metakocke lahko za posameznega partnereja, na podlagi njegovega e-poš
 
 URL : https://main.metakocka.si/rest/eshop/getUserPrices/{company_id}/{secret_key}/?user={user_email}&items={item:quantity}
 
-**Primer klica **
+**Primer klica**
 
 https://main.metakocka.si/rest/eshop/getUserPrices/123/S252zoQTz6DaOhsxWdJ/?user=example@example.com&items=13:1,51:50
 
